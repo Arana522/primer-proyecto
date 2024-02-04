@@ -1,0 +1,47 @@
+.body {
+    background-image: url(descarga.jpeg);
+}
+.perfil{
+    background-color: rgba(184, 184, 194, 0.851);
+    border-style: double;
+    border-width: thick;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    
+}
+.parte2{
+    background-color: rgba(184, 185, 188, 0.849);
+    border-style: double;
+    border-width: thick;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.texto{
+    text-indent: 50px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+.habilidades{
+    background-color: rgba(185, 186, 187, 0.853);
+    border-style: double;
+    border-width: thick;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#foto{
+    margin-top: 15px;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 10px solid transparent;
+    padding: 10px;
+    border-image: url(foto.png) 30 stretch
+    
+
+}
